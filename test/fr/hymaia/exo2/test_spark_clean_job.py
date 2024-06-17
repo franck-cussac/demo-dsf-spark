@@ -1,4 +1,4 @@
-from tests.fr.hymaia.spark_test_case import spark
+from test.fr.hymaia.spark_test_case import spark
 import unittest
 from src.fr.hymaia.exo2.spark_clean_job import filter_on_age, add_department, clean_data
 from pyspark.sql import Row

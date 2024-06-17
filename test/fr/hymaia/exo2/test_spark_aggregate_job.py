@@ -1,4 +1,4 @@
-from tests.fr.hymaia.spark_test_case import spark
+from test.fr.hymaia.spark_test_case import spark
 import unittest
 from src.fr.hymaia.exo2.spark_aggregate_job import agg_pop_by_departement
 from pyspark.sql import Row

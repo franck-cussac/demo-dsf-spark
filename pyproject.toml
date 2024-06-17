@@ -3,9 +3,6 @@ name = "spark-handson"
 version = "0.1.0"
 description = "Résolvez les exercices"
 authors = ["Franck Cussac"]
-packages = [
-    { include = "src/fr/hymaia" }
-]
 
 [tool.poetry.dependencies]
 python = "~3.10.12"
