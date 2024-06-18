@@ -1,4 +1,4 @@
-from tests.fr.hymaia.spark_test_case import spark
+from test.fr.hymaia.spark_test_case import spark
 import unittest
 from src.fr.hymaia.exo1.main import wordcount
 from pyspark.sql import Row

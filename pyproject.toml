@@ -1,3 +1,7 @@
+[project]
+name = "spark-handson"
+version = "0.1.0"
+
 [tool.poetry]
 name = "spark-handson"
 version = "0.1.0"

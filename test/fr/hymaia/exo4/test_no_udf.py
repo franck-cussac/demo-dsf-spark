@@ -1,4 +1,4 @@
-from tests.fr.hymaia.spark_test_case import spark
+from test.fr.hymaia.spark_test_case import spark
 import unittest
 from src.fr.hymaia.exo4.no_udf import add_column_total_price_per_category_last_30_days
 from pyspark.sql import Row
