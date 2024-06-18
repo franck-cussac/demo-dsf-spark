@@ -10,3 +10,5 @@ dist
 terraform.*
 .devcontainer
 .venv
+*.egg-info
+build
